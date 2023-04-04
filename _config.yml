@@ -9,7 +9,7 @@ version: 2
 name: Arnau Lagarda Tous 
 title: Bioinformatician | Project Manager
 email: arnau.mobil@gmail.com
-phone: +34 697145527
+#phone: +34 697145527
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -87,7 +87,7 @@ content:
         caption: 2015 - 2019
         sub_title: BSc in Microbiology
         quote: >
-         Through a rigorous curriculum emphasizing hands-on laboratory experience and a deep understanding of microorganisms, their interactions with the environment and their molecular biology, the BSc in Microbiology at Universitat Autonoma de Barcelona prepares students for careers at the forefront of understanding and combatting infectious disease, biotechnology, and environmental sustainability
+          Through a rigorous curriculum emphasizing hands-on laboratory experience and a deep understanding of microorganisms, their interactions with the environment and their molecular biology, the BSc in Microbiology at Universitat Autonoma de Barcelona prepares students for careers at the forefront of understanding and combatting infectious disease, biotechnology, and environmental sustainability
         description: | # this will include new lines to allow paragraphs
           In pursuing a BSc in Microbiology at Universitat Autonoma de Barcelona, I gained a deep understanding of the world of microorganisms and their impact on our lives. The program offered a rigorous and comprehensive curriculum that allowed me to explore the biology of bacteria, viruses, fungi, and other microorganisms, as well as their complex interactions with each other and their environment.
 
@@ -129,7 +129,7 @@ content:
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: false
+footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
