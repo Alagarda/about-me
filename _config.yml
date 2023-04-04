@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Arnau Lagarda Tous
-title: Bioinformatician | Project Manager
+title: Bioinformatician | Senior Project Manager
 email: arnau.mobil@gmail.com
 phone: +34 697145527 
 
@@ -119,10 +119,12 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      <div class="skills-list">
+        <i class="fab fa-r"></i> R
+        <i class="fab fa-python"></i> Python
+        <i class="fab fa-bash"></i> Bash
+        <i class="fab fa-matlab"></i> Matlab
+      </div>
 
       Look at this cool image  
       ![Trees](/images/landscape-trees.jpg "Trees")
