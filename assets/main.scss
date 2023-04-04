@@ -3,3 +3,13 @@
 ---
 
 @import 'modern-resume-theme';
+
+/* Custom icon */
+.matlab:before {
+    content: "";
+    background-image: url('../images/matlabicon.svg');
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    margin-right: 5px;
+  }

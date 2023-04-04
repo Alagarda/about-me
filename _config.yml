@@ -2,6 +2,8 @@
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
+<link rel="stylesheet" href="images/style.css" />
+
 # Content configuration version
 version: 2
 
@@ -95,33 +97,34 @@ content:
           
           Personally, I am most thankful to the program for introducing me to Bioinformatics, which I quickly identified as a field I would desire to pursue a career in. To that end, I did an internship in the [Computational Biology Group from the Institut of Biotecnologia and Biomedicina](https://ibb.uab.cat/wp-content/themes/viral/modules/ibb_membres/view_grup.php?CodiGrup=25) (IBB), where I took my first steps in Bioinformatics by familiarizing myself with Linux systems, command line interfaces and the development of Perl pipelines for sequence based identification of potential drug targets using the proteome of *Stenotrophomonas maltophilia*. 
 
-  - title: Potato # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-    - layout: top-middle
-      title: Super awesome project
-      link: github.com/sproogen
-      # link_text: Project Website
-      additional_links:
-        - title:  sproogen/modern-resume-theme
-          icon: fab fa-github
-          url: github.com/sproogen/modern-resume-theme
-      # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-      #   icon: fab fa-github
-      #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-      quote: >
-        This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-      description: | # this will include new lines to allow paragraphs
-        I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  # - title: Potato # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #   - layout: top-middle
+  #     title: Super awesome project
+  #     link: github.com/sproogen
+  #     # link_text: Project Website
+  #     additional_links:
+  #       - title:  sproogen/modern-resume-theme
+  #         icon: fab fa-github
+  #         url: github.com/sproogen/modern-resume-theme
+  #     # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #     #   icon: fab fa-github
+  #     #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+  #     quote: >
+  #       This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  #     description: | # this will include new lines to allow paragraphs
+  #       I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
 
-  - title: A Little More About Me
+  - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-        - <i class="fab fa-r-project"></i> R
-        - <i class="fab fa-python"></i> Python
-        - <i class="fa-brands fa-linux"></i> Linux
+      Throughout my journey in the field of bioinformatics, I have gained experience in the following: 
+        - <i class="fab fa-r-project"></i> ** R**:   
+        - <i class="fab fa-python"></i> ** Python**: 
+        - <i class="fab fa-linux"></i> ** Linux/Bash**: 
+        - <i class="matlab"></i> ** Matlab**: 
 
 
 # Footer
