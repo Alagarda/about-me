@@ -91,6 +91,18 @@ content:
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
+      ![Trees](/images/landscape-trees.jpg "Trees")
+
+  - title: Un poco de mi pana
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Mi bebe
+      - Mi otro bebe
+      - Knitting
+      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+      Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
