@@ -57,18 +57,17 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Anaxomics Biotech S.L
+        title: Anaxomics Biotech S.L.
         link: https://www.anaxomics.com/
         # link_text: boringcompany.com
         sub_title: Project Manager
         caption: March 2020 - Present
         quote: >
-          *Artificial Intelligence & Systems Biology solutions: not just the evidence, also the reason behind it*
+          Artificial Intelligence & Systems Biology solutions: not just the evidence, also the reason behind it
         description: | # this will include new lines to allow paragraphs
           Anaxomics is an SME providing services in biomedical data analysis through the use of cutting-edge artificial intelligence for the combination of systems biology and machine learning methods. 
           
-          My role in Anaxomics is varied. In one hand, I am responsible for compiling, preparing and performing high-throughput data analyses (e.g. RNA-seq, microarray) through state of the art methodologies -differential expression analyses, enrichments, machine learning classifiers- geared towards stakeholders needs.  
-          In addition, I am also responsible for organizing the team for the performance of diverse data analyses when necessary, taking care of the communication with the client, and providing written results reports and visualizations to our clients to support our findings.
+          My role in Anaxomics is varied. In one hand, I am responsible for compiling, preparing and performing high-throughput data analyses (e.g. RNA-seq, microarray) through state of the art methodologies -differential expression analyses, enrichments, machine learning classifiers- geared towards stakeholders needs. In addition, I am also responsible for organizing the team for the performance of diverse data analyses when necessary, taking care of the communication with the client, and providing written results reports and visualizations to our clients to support our findings.
             
 
   - title: Education # Title for the section
@@ -79,7 +78,7 @@ content:
         caption: 2019 - 2020
         sub_title: MSc in Bioinformatics
         quote: >
-          *The MSc in Bioinformatics at Universitat Autonoma de Barcelona equips students with the interdisciplinary skills needed to unlock the potential of biological data through advanced computational analysis, preparing them for impactful careers in research, industry, and beyond.*
+          The MSc in Bioinformatics at Universitat Autonoma de Barcelona equips students with the interdisciplinary skills needed to unlock the potential of biological data through advanced computational analysis, preparing them for impactful careers in research, industry, and beyond.
         description: | # this will include new lines to allow paragraphs
           During my Masters degree in Bioinformatics, I discovered the wonderful sensation of mixed relief and warmth from having a complex problem or tedious task being solved through coding. As a one year program, the intensity and the tight work schedule created an environment where my colleagues and I would spend hour after hour working together to improve our programming skills as well as learning new computational biology techniques frantically. 
           The program offered specialization on Genomics, Proteomics or High Performance Computing, with the latter being my choice. There, we were introduced to concepts that none of us coming from a biological sciences background would have heard of during our bachelors such as code optimization, cloud computing, artificial neural networks and machine learning.
@@ -89,7 +88,7 @@ content:
         caption: 2015 - 2019
         sub_title: BSc in Microbiology
         quote: >
-          *Through a rigorous curriculum emphasizing hands-on laboratory experience and a deep understanding of microorganisms, their interactions with the environment and their molecular biology, the BSc in Microbiology at Universitat Autonoma de Barcelona prepares students for careers at the forefront of understanding and combatting infectious disease, biotechnology, and environmental sustainability.*
+          Through a rigorous curriculum emphasizing hands-on laboratory experience and a deep understanding of microorganisms, their interactions with the environment and their molecular biology, the BSc in Microbiology at Universitat Autonoma de Barcelona prepares students for careers at the forefront of understanding and combatting infectious disease, biotechnology, and environmental sustainability.
         description: | # this will include new lines to allow paragraphs
           While pursuing a BSc in Microbiology at Universitat Autonoma de Barcelona, I gained a deep understanding of the world of microorganisms and their impact on our lives. The program offered a rigorous and comprehensive curriculum that allowed me to explore the biology of bacteria, viruses, fungi, and other microorganisms, as well as their complex interactions with each other and their environment.
           One of the strong points of the program was gaining hands-on laboratory experience, where I had the opportunity to work with a diverse range of microorganisms and apply cutting-edge techniques to analyze their properties and behavior. Through research projects and collaborations with faculty members and fellow students, I developed critical thinking and problem-solving skills, which are essential in the field of microbiology. 
