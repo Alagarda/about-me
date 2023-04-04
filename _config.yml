@@ -83,17 +83,17 @@ content:
           The program offered specialization on Genomics, Proteomics or High Performance Computing, with the latter being my choice. There, we were introduced to concepts that none of us coming from a biological sciences background would have heard of during our bachelors such as code optimization, cloud computing, artificial neural networks and machine learning.
       
       - layout: left
-              title: Universitat Autònoma de Barcelona
-              caption: 2015 - 2019
-              sub_title: BSc in Microbiology
-              quote: >
-                Through a rigorous curriculum emphasizing hands-on laboratory experience and a deep understanding of microorganisms, their interactions with the environment and their molecular biology, the BSc in Microbiology at Universitat Autonoma de Barcelona prepares students for careers at the forefront of understanding and combatting infectious disease, biotechnology, and environmental sustainability
-              description: | # this will include new lines to allow paragraphs
-               In pursuing a BSc in Microbiology at Universitat Autonoma de Barcelona, I gained a deep understanding of the world of microorganisms and their impact on our lives. The program offered a rigorous and comprehensive curriculum that allowed me to explore the biology of bacteria, viruses, fungi, and other microorganisms, as well as their complex interactions with each other and their environment.
+        title: Universitat Autònoma de Barcelona
+        caption: 2015 - 2019
+        sub_title: BSc in Microbiology
+        quote: >
+         Through a rigorous curriculum emphasizing hands-on laboratory experience and a deep understanding of microorganisms, their interactions with the environment and their molecular biology, the BSc in Microbiology at Universitat Autonoma de Barcelona prepares students for careers at the forefront of understanding and combatting infectious disease, biotechnology, and environmental sustainability
+        description: | # this will include new lines to allow paragraphs
+          In pursuing a BSc in Microbiology at Universitat Autonoma de Barcelona, I gained a deep understanding of the world of microorganisms and their impact on our lives. The program offered a rigorous and comprehensive curriculum that allowed me to explore the biology of bacteria, viruses, fungi, and other microorganisms, as well as their complex interactions with each other and their environment.
 
-               One of the strong points of the program was gaining hands-on laboratory experience, where I had the opportunity to work with a diverse range of microorganisms and apply cutting-edge techniques to analyze their properties and behavior. Through research projects and collaborations with faculty members and fellow students, I developed critical thinking and problem-solving skills, which are essential in the field of microbiology. 
+          One of the strong points of the program was gaining hands-on laboratory experience, where I had the opportunity to work with a diverse range of microorganisms and apply cutting-edge techniques to analyze their properties and behavior. Through research projects and collaborations with faculty members and fellow students, I developed critical thinking and problem-solving skills, which are essential in the field of microbiology. 
 
-               Personally, I am most thankful to the program for introducing me to Bioinformatics, which I quickly identified as a field I would desire to pursue a career in. To that end, I did an internship in the [Computational Biology Group from the Institut of Biotecnologia and Biomedicina](https://ibb.uab.cat/wp-content/themes/viral/modules/ibb_membres/view_grup.php?CodiGrup=25) (IBB), where I took my first steps in Bioinformatics by familiarizing myself with Linux systems, command line interfaces and the development of Perl pipelines for sequence based identification of potential drug targets using the proteome of *Stenotrophomonas maltophilia*. 
+          Personally, I am most thankful to the program for introducing me to Bioinformatics, which I quickly identified as a field I would desire to pursue a career in. To that end, I did an internship in the [Computational Biology Group from the Institut of Biotecnologia and Biomedicina](https://ibb.uab.cat/wp-content/themes/viral/modules/ibb_membres/view_grup.php?CodiGrup=25) (IBB), where I took my first steps in Bioinformatics by familiarizing myself with Linux systems, command line interfaces and the development of Perl pipelines for sequence based identification of potential drug targets using the proteome of *Stenotrophomonas maltophilia*. 
 
                
           
