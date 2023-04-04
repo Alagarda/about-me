@@ -119,15 +119,9 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      <div class="skills-list">
-        <i class="fab fa-r"></i> R
-        <i class="fab fa-python"></i> Python
-        <i class="fab fa-bash"></i> Bash
-        <i class="fab fa-matlab"></i> Matlab
-      </div>
-
-      Look at this cool image  
-      ![Trees](/images/landscape-trees.jpg "Trees")
+        - <i class="fab fa-r-project"></i> R
+        - <i class="fab fa-python"></i> Python
+        - <i class="fa-brands fa-linux"></i> Linux
 
 
 # Footer
