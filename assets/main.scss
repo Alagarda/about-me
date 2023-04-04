@@ -5,12 +5,12 @@
 @import 'modern-resume-theme';
 
 /* Custom icon */
-.matlab:before {
+.matlabicon:before {
     content: "";
     background-image: url('../images/matlab.svg');
     display: inline-block;
-    width: 8px;
-    height: 8px;
+    width: 16px;
+    height: 16px;
     margin-right: 5px;
-    }
+}
 
