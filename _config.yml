@@ -119,10 +119,16 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Throughout my journey in the field of bioinformatics, I have gained experience in the following: 
-        - <i class="fab fa-r-project"></i>   **R**:   
-        - <i class="fab fa-python"></i>   **Python**: 
+        - <i class="fab fa-r-project"></i>   **R**
+            - Executing and interpreting the results from popular differential expression packages such as *limma*, *DeSeq2* or *EdgeR*. 
+            - Perform data management and cleaning through the usage of tidiverse packages such as *dplyr*, *readr* or *stringr*. 
+            - Create data visualizations aimed at scientific reporting through *ggplot2*. 
+            - Deploy in-house interactive apps for data visualization through *R Shiny*.   
+        - <i class="fab fa-python"></i>   **Python**
+            - 
         - <i class="fab fa-linux"></i>   **Linux/Bash**: 
         - <i class="matlabicon"></i>   **Matlab**: 
+        - <span>&#x1F1EA;&#x1F1F8;</span> Spanishflag
 
 
 # Footer
