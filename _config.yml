@@ -119,10 +119,10 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Throughout my journey in the field of bioinformatics, I have gained experience in the following: 
-        - <i class="fab fa-r-project"></i> ** R**:   
-        - <i class="fab fa-python"></i> ** Python**: 
-        - <i class="fab fa-linux"></i> ** Linux/Bash**: 
-        - <i class="matlab"></i> ** Matlab**: 
+        - <i class="fab fa-r-project"></i> **R**:   
+        - <i class="fab fa-python"></i> **Python**: 
+        - <i class="fab fa-linux"></i> **Linux/Bash**: 
+        - <i class="matlab"></i> **Matlab**: 
 
 
 # Footer
